@@ -1,0 +1,8 @@
+.reveal section img {
+    border: 0;
+    box-shadow: none;
+}
+
+.reveal blockquote {
+    background: rgba(200, 200, 200, 0.2);
+}

@@ -1,0 +1,4 @@
+logo : assets/img/dohack-logo.png
+footnote : "&copy; 2019 Igor Besel &amp; Kai Schröer - DO!Hack.js"
+theme : night
+theme-override : assets/css/PITCHME.css
