@@ -109,10 +109,11 @@ Screenshot of [Is ServiceWorker ready?](https://jakearchibald.github.io/isservic
 
 ### Push Notifications
 
-- get user back with notifications
-- Web Push protocol can use by every push service
-- ready-to-use-packages are avaliable for different servers
+- Get the user back with notifications
 
+- Web Push protocol can be used by every push service
+
+- Ready-to-use-packages are avaliable for different servers
 
 #HSLIDE
 @title[More cool APIs]
@@ -137,9 +138,9 @@ cd dist/pwa-demo
 http-server -c-1
 ```
 
-@[1](Install global @angular/cli and http-server)
-@[2-3](Generate a new project)
-@[4](Add @angular/cli module)
+@[1](Install global @angular/cli and http-server packages)
+@[2-3](Generate a new Angular project)
+@[4](Add @angular/pwa package with schematics)
 @[5](Build in production mode !important)
 @[6-7](Enter dist directory and start the http server)
 
